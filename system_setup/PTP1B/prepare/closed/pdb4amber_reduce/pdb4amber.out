@@ -1,0 +1,23 @@
+/home/vn18144/Soft/miniconda3/envs/amber/lib/python3.6/site-packages/ParmEd-3.2.0-py3.6-linux-x86_64.egg/parmed/amber/titratable_residues.py:311: UserWarning: Not enough states are pKa-adjusted in AC
+  self.resname)
+
+==================================================
+Summary of pdb4amber for: input.pdb
+===================================================
+
+----------Chains
+The following (original) chains have been found:
+A
+
+---------- Alternate Locations (Original Residues!))
+
+The following residues had alternate locations:
+PHE_225
+-----------Non-standard-resnames
+
+
+---------- Mising heavy atom(s)
+
+None
+The alternate coordinates have been discarded.
+Only the first occurrence for each atom was kept.

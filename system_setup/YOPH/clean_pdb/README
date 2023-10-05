@@ -1,0 +1,5 @@
+1YPT.pdb, 2I42.pdb - from PDB
+2I42_aligned.pdb - 2I42 aligned over 1YPT in PyMOL
+2I42_Nter_align.pdb - res 187-190 aligned over 1YPT
+open_raw.pdb - 1YPT without chain A, with res 187-190 from 2I42_Nter_align and waters 504 537 removed 
+closed_raw.pdb - aligned 2I42 without VO4

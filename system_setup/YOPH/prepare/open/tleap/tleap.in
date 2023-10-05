@@ -1,0 +1,10 @@
+source leaprc.protein.ff19SB
+source leaprc.water.opc
+
+mol = loadpdb open_for_tleap.pdb
+
+solvatebox mol OPCBOX 12 0.75
+addIonsRand mol Cl- 0
+saveamberparm mol open_tleap.parm7 open_tleap.inpcrd
+savepdb mol open_tleap.pdb
+quit

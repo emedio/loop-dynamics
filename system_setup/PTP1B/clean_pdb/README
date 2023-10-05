@@ -1,0 +1,5 @@
+4Y14_aligned.pdb: 4Y14 aligned over 6B90 with PyMOL
+4Y14_aligned_only297-301.pdb: residues 297-301 chain B from 4Y14_aligned.pdb
+6B90_A.pdb and 6B90_B.pdb: generated with split_pdb.py
+6B90_B_with_missing_from_A.pdb: the missing residues in 6B90_B are manually added from 6B90_A
+closed_raw.pdb and open_raw.pdb: added residues 297-301 from 4Y14_aligned_only297-301.pdb to 6B90_A.pdb and 6B90_B_with_missing_from_A.pdb

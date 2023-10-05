@@ -1,0 +1,21 @@
+
+==================================================
+Summary of pdb4amber for: input.pdb
+===================================================
+
+----------Chains
+The following (original) chains have been found:
+A
+
+---------- Alternate Locations (Original Residues!))
+
+The following residues had alternate locations:
+CYS_418
+-----------Non-standard-resnames
+
+
+---------- Mising heavy atom(s)
+
+None
+The alternate coordinates have been discarded.
+Only the first occurrence for each atom was kept.
